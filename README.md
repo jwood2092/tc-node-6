@@ -5,3 +5,4 @@ Collective repository for lecture materials, reviews, exercises, and projects fo
 ## Contributors
 
 - [Bryantellius](https://github.com/Bryantellius)
+- [Seth Bowman](https://github.com/SethBowman)
