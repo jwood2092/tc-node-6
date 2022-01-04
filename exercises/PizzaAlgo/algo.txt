@@ -1,0 +1,10 @@
+1. Decide where to order pizza from
+2. Decide how many
+3. Decide the toppings
+4. Want a drink?
+5. Delivery or pick up?
+6. Tip amount?
+7. Calculate total
+8. Get pizza by delivery option
+9. Pay
+10. Enjoy
