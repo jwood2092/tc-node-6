@@ -22,6 +22,7 @@
 `git pull` _fetches and merges_ the latest updates in a remote repository
 `git log` displays previous commits
 `git diff` displays the current _changes_ (_uncommitted_) from the previously (_latest_) committed version
+`git remote -v` list remote branches for this repo
 
 All files _to be ignored_ by Git, should be listed in a `.gitignore` file
 
