@@ -1,3 +1,5 @@
+Pizza Algorithm
+
 1. Decide where to order pizza from
 2. Decide how many
 3. Decide the toppings
