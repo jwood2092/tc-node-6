@@ -10,6 +10,7 @@
 `..` parent directory
 `mv`, `move` to move a file/folder from the old location to the new
 `rm`, `remove` to remove a file
+`rm -rf <folder>`, `rmdir -R <folder>` to remove a folder with contents
 `open`, `start` to open a file (all files have a default application)
 `ls`, `dir` to list items in a directory
 `head <file>` displays the first 10 lines of a file (can be changed to be more than 10)
@@ -17,8 +18,14 @@
 
 ## Git
 
+Linus Torvalds is seen as the creator of Git in 2005.
+
+Git is a _distributed version control system_.
+
 `git status` receive feedback with git tracking a folder (e.g. current branch, untracked files, modified files, staged files, unpushed commits, etc)
 `git init` initializes an empty git repository
+`git fetch` downloads latest updates from the remote repo
+`git merge` merges latest updates from a fetch to the local project
 `git pull` _fetches and merges_ the latest updates in a remote repository
 `git log` displays previous commits
 `git diff` displays the current _changes_ (_uncommitted_) from the previously (_latest_) committed version
