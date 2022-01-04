@@ -3,8 +3,8 @@
 3. Decide the toppings
 4. Want a drink?
 5. Delivery or pick up?
-6. Tip amount?
-7. Calculate total
-8. Get pizza by delivery option
+6. Calculate total
+7. Get pizza by delivery option
+8. Tip amount?
 9. Pay
 10. Enjoy
